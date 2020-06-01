@@ -1,2 +1,2 @@
-# GO-AI-engineering-practice-guide
+# go-ai-engineering-practice-guide
 GO AI工程化实践指南
